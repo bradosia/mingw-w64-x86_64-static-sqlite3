@@ -8,6 +8,8 @@ Features demonstrated:
 * UPDATE Operation
 * DELETE Operation
 
+Code is adapted from https://www.tutorialspoint.com/sqlite/sqlite_c_cpp.htm
+
 Sources:
 * MSYS2 (https://msys2.duckdns.org/package/mingw-w64-x86_64-sqlite3?repo=mingw64)
 
